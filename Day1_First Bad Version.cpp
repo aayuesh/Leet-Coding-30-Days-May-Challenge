@@ -1,5 +1,14 @@
+/*
+
+    ##############################
+    ## Author: AAYUESH BARUI #####
+    ## College: LNMIIT ###########
+    ##############################
+*/
+
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
+
 
 class Solution {
 public:

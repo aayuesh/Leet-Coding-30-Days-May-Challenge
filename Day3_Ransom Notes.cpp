@@ -1,3 +1,10 @@
+/*
+
+    ##############################
+    ## Author: AAYUESH BARUI #####
+    ## College: LNMIIT ###########
+    ##############################
+*/
 class Solution {
 public:
     bool canConstruct(string s1, string s2) {
